@@ -12,6 +12,6 @@ Bokselskap's collection includes approximately 20 letter editions. Our aim is to
 
 
 ## Metadata
-- [Letters from Henrik Ibsen to Bjørnstjerne Bjørnson]()
-- [Letters from Henrik Ibsen to Camilla Collett]()
-- [Letters from Henrik Ibsen to Jonas Lie]()
+- [Letters from Henrik Ibsen to Bjørnstjerne Bjørnson](https://github.com/norkorr/bokselskap/blob/master/data/Bokselskap_LettersHI-BB_CMIF.xml)
+- [Letters from Henrik Ibsen to Camilla Collett](https://github.com/norkorr/bokselskap/blob/master/data/Bokselskap_LettersHI-CC_CMIF.xml)
+- [Letters from Henrik Ibsen to Jonas Lie](https://github.com/norkorr/bokselskap/blob/master/data/Bokselskap_LettersHI-JL_CMIF.xml)
